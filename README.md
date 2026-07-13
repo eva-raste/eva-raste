@@ -7,8 +7,8 @@
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/eva-raste"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/eva-raste/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Eva_Raste_3003/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
@@ -69,12 +69,12 @@ Production-grade competitive programming platform inspired by LeetCode and Codef
 Parcel delivery platform with optimal routing.
 
 **Highlights**
-- Dijkstra shortest path
+- Travelling Sales Person shortest path
 - Agent & customer dashboards
 - Razorpay integration
 - JWT authentication
 - Mapbox integration
-- MongoDB backend
+- Live tracking
 - REST APIs
 
 **Tech:** React, Node.js, Express, MongoDB, Mapbox
@@ -106,7 +106,6 @@ Social blogging platform built with Django.
 - Blog CRUD
 - Likes & Comments
 - Friend System
-- Real-time Chat using Django Channels
 - Notifications
 - Search
 - User Profiles
