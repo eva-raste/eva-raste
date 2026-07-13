@@ -1,23 +1,150 @@
-<h1 align="center">Hi,I'm Eva Raste</h1>
-<h3 align="center">A passionate tech enthusiast aiming to build meaningful and optimized solutions. Always curious to explore new technologies and improve my skills with consistent learning and practical implementation.</h3>
+# Hi there 👋 I'm Eva Raste
 
-
--  My Portfolio https://rasteeva.vercel.app/
-
-- 🔭 I’m currently working on **Blood Bank Management System**
-
-- 🌱 I’m currently learning **MERN stack and App development**
-
-- 📫 How to reach me **rasteeva3003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eva-raste/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eva-raste/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/rasteeva3003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rasteeva3003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rasteeva3003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rasteeva3003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/evaraste/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/evaraste/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rasteev1m3d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rasteev1m3d/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+System+Design;700%2B+LeetCode+Problems+Solved;Building+Scalable+Applications;Always+Learning+New+Things" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/eva-raste"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Engineering student at **Dharmsinh Desai University**
+- 💻 Backend Developer passionate about scalable systems
+- 🚀 Interested in **Spring Boot, Microservices, Redis, Kafka, Docker & System Design**
+- 🤖 Exploring AI, RAG pipelines and LLM-powered applications
+- 📱 Build cross-platform applications using Flutter
+- 🧩 Solved **700+ LeetCode** problems
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+Java • Python • C++ • JavaScript • SQL 
+
+## Backend
+Spring Boot • Spring Security • Hibernate • Django • Node.js • Express
+
+## Frontend
+React • HTML • CSS • JavaScript • Tailwind CSS • Bootstrap • Vite
+
+## Databases
+PostgreSQL • MySQL • MongoDB • Redis
+
+## DevOps & Tools
+Docker • AWS • Git • GitHub • Linux • Postman • IntelliJ IDEA • VS Code • Render • Railway • Vercel
+
+---
+
+# 🚀 Featured Projects
+
+## 🏆 DevArena
+
+Production-grade competitive programming platform inspired by LeetCode and Codeforces.
+
+**Highlights**
+- Secure Docker-based code execution
+- Live contests and leaderboards
+- Redis caching
+- WebSocket real-time updates
+- JWT Authentication
+- PostgreSQL database
+- Role-based authorization
+- Contest scheduling
+- Scalable Spring Boot backend
+
+**Tech:** Java, Spring Boot, React, PostgreSQL, Redis, Docker, WebSockets
+
+---
+
+## 📦 Smart Parcel Delivery System
+
+Parcel delivery platform with optimal routing.
+
+**Highlights**
+- Dijkstra shortest path
+- Agent & customer dashboards
+- Razorpay integration
+- JWT authentication
+- Mapbox integration
+- MongoDB backend
+- REST APIs
+
+**Tech:** React, Node.js, Express, MongoDB, Mapbox
+
+---
+
+## 🩸 Blood Bank Management System
+
+Hospital blood inventory management application.
+
+**Highlights**
+- Blood inventory management
+- Donor registration
+- Hospital request workflow
+- Secure login
+- CRUD APIs
+- MySQL database
+
+**Tech:** Java, Spring Boot, MySQL
+
+---
+
+## 📝 Blog Website
+
+Social blogging platform built with Django.
+
+**Highlights**
+- Google OAuth
+- Blog CRUD
+- Likes & Comments
+- Friend System
+- Real-time Chat using Django Channels
+- Notifications
+- Search
+- User Profiles
+
+**Tech:** Django, HTML, CSS, JavaScript, SQLite
+
+---
+
+## 🤖 AI Context Inspector
+
+Chrome extension for converting ChatGPT & Claude conversations into structured context.
+
+**Highlights**
+- Local-only processing
+- ChatGPT support
+- OpenRouter summarization
+- Privacy-first
+- Export conversation context
+
+**Tech:** JavaScript, Chrome Extension MV3
+
+---
+
+# 🏅 Achievements
+
+- 🧩 700+ LeetCode Problems Solved
+- 🎯 Backend-focused developer
+- 🚀 Built multiple production-ready applications
+
+---
+
+# 📚 Currently Exploring
+
+- Distributed Systems
+- Kafka
+- Kubernetes
+- AWS
+- Redis Internals
+- AI Agents
+- Advanced System Design
+
