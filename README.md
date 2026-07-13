@@ -11,9 +11,13 @@
   <a href="https://leetcode.com/u/Eva_Raste_3003/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eva-raste&style=for-the-badge&color=blueviolet" alt="profile views"/>
+</p>
+
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Engineering student at **Dharmsinh Desai University**
 - 💻 Backend Developer passionate about scalable systems
@@ -24,29 +28,70 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Languages
-Java • Python • C++ • JavaScript • SQL 
+**Languages**
 
-## Backend
-Spring Boot • Spring Security • Hibernate • Django • Node.js • Express
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-## Frontend
-React • HTML • CSS • JavaScript • Tailwind CSS • Bootstrap • Vite
+**Backend**
 
-## Databases
-PostgreSQL • MySQL • MongoDB • Redis
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-## DevOps & Tools
-Docker • AWS • Git • GitHub • Linux • Postman • IntelliJ IDEA • VS Code • Render • Railway • Vercel
+**Frontend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+**Databases**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+**DevOps & Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏆 DevArena
-
+### 🏆 DevArena
 Production-grade competitive programming platform inspired by LeetCode and Codeforces.
 
 **Highlights**
@@ -60,16 +105,23 @@ Production-grade competitive programming platform inspired by LeetCode and Codef
 - Contest scheduling
 - Scalable Spring Boot backend
 
-**Tech:** Java, Spring Boot, React, PostgreSQL, Redis, Docker, WebSockets
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+</p>
 
 ---
 
-## 📦 Smart Parcel Delivery System
-
+### 📦 Smart Parcel Delivery System
 Parcel delivery platform with optimal routing.
 
 **Highlights**
-- Travelling Sales Person shortest path
+- Travelling Salesperson shortest path
 - Agent & customer dashboards
 - Razorpay integration
 - JWT authentication
@@ -77,12 +129,18 @@ Parcel delivery platform with optimal routing.
 - Live tracking
 - REST APIs
 
-**Tech:** React, Node.js, Express, MongoDB, Mapbox
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+</p>
 
 ---
 
-## 🩸 Blood Bank Management System
-
+### 🩸 Blood Bank Management System
 Hospital blood inventory management application.
 
 **Highlights**
@@ -93,12 +151,15 @@ Hospital blood inventory management application.
 - CRUD APIs
 - MySQL database
 
-**Tech:** Java, Spring Boot, MySQL
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 📝 Blog Website
-
+### 📝 Blog Website
 Social blogging platform built with Django.
 
 **Highlights**
@@ -110,12 +171,17 @@ Social blogging platform built with Django.
 - Search
 - User Profiles
 
-**Tech:** Django, HTML, CSS, JavaScript, SQLite
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
 
 ---
 
-## 🤖 AI Context Inspector
-
+### 🤖 AI Context Inspector
 Chrome extension for converting ChatGPT & Claude conversations into structured context.
 
 **Highlights**
@@ -125,11 +191,14 @@ Chrome extension for converting ChatGPT & Claude conversations into structured c
 - Privacy-first
 - Export conversation context
 
-**Tech:** JavaScript, Chrome Extension MV3
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Chrome_Extension_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+</p>
 
 ---
 
-# 🏅 Achievements
+## 🏅 Achievements
 
 - 🧩 700+ LeetCode Problems Solved
 - 🎯 Backend-focused developer
@@ -137,13 +206,23 @@ Chrome extension for converting ChatGPT & Claude conversations into structured c
 
 ---
 
-# 📚 Currently Exploring
+## 📚 Currently Exploring
 
-- Distributed Systems
-- Kafka
-- Kubernetes
-- AWS
-- Redis Internals
-- AI Agents
-- Advanced System Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Distributed_Systems-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis_Internals-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-10A37F?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced_System_Design-000000?style=flat-square"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eva-raste&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
 
